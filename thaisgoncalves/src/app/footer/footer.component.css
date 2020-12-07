@@ -1,0 +1,39 @@
+/* footer social icons */
+
+ul.social-network {
+  list-style: none;
+  display: inline;
+
+  padding: 0;
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0;
+  padding: 5px;
+}
+
+.faGoogle, .faLinkedin, .faWhatsapp, .faGithub{
+    color: white;
+}
+
+.faFacebook:hover{
+  color: #3b5998;
+}
+
+.faLinkedin:hover{
+color: #0072b1;
+}
+
+.faGoogle:hover{
+color: #db4a39;
+}
+
+.faWhatsapp:hover{
+color: #34af23
+}
+
+.faGithub:hover{
+color: #171515
+}
+
